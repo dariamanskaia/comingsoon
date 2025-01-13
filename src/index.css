@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'September Bold'; /* The name of your font */
+  src: url('./fonts/September_Bold.otf') format('opentype'); /* Path to your font file */
+  font-weight: bold; /* Optional: specify weight */
+  font-style: normal; /* Optional: specify style */
+}
+
+body {
+  margin: 0;
+  font-family: 'September Bold';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'September Bold';
+}
