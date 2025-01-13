@@ -115,7 +115,7 @@ function App() {
           <div style={{
               position: "absolute",
               width: "100vw",
-              paddingTop: "4rem",
+              paddingTop: "5rem",
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
