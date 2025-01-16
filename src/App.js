@@ -19,7 +19,7 @@ function App() {
         <Link href="/">
             <Box
                 component="img"
-                src={yearsCal}
+                src={logoWhite}
                 alt="Logo clube automovel lousada"
                 sx={{ mr: 1, width: { xs: 60, lg: 100 }, height: { xs: 60, lg: 100 } }}
             />
@@ -27,7 +27,7 @@ function App() {
         <Link href="/">
             <Box
                 component="img"
-                src={logoWhite}
+                src={yearsCal}
                 alt="Logo clube automovel lousada"
                 sx={{ mr: 1, width: { xs: 60, lg: 100 }, height: { xs: 60, lg: 100 } }}
             />
